@@ -222,6 +222,18 @@ header {
     }
 }
 
+.portfolio-content {
+    text-align: center;
+    max-width: 1000px;
+                margin-left: auto;
+                margin-right: auto;
+                p {
+                    font-size: 18px;
+                    max-width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;;
+}
+
 .portfolio-box {
     position: relative;
     display: block;
